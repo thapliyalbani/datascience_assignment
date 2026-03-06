@@ -1,5 +1,6 @@
 # datascience_assignment
 - Dataset operations assignment for my Computer Science course.
+- 
 Data Science Assignment 1
 
 Overview
@@ -17,7 +18,7 @@ It contains information about international T20 cricket matches including:
 - match dates
 - gender category
 - match type
-- 
+  
 Technologies Used
 
 - Python
@@ -59,4 +60,5 @@ The goal of this assignment is to understand:
 Author
 
 Bani Thapliyal 
+
 This project was developed and executed using Google Colab.
